@@ -5,8 +5,7 @@ export const Services = (props) => {
         <div className='section-title'>
           <h2>Design evolution</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            We have gone through 5 prototype versions as we refine the product to fit the user's needs.
           </p>
         </div>
         <div className='row'>

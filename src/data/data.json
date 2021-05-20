@@ -1,8 +1,9 @@
 {
     "Header": {
 
-        "title": "Welcome to Nhap Nho",
-        "paragraph": "A relationship-building application for couples"
+        "title": "Nhap Nho",
+        "sub_title": "A relationship-building application for couples",
+        "description": "You are obssessed with searching for a dating place? You have to maintain a clunky Google Drive to save images of your dates? Nhap Nho is here to help you create the memorable dating moments"
 
     },
     "About": {

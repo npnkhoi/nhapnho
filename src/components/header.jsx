@@ -14,7 +14,8 @@ export const Header = (props) => {
                   {props.data ? props.data.title : 'Loading'}
                   <span></span>
                 </h1>
-                <p>{props.data ? props.data.paragraph : 'Loading'}</p>
+                <p>{props.data ? props.data.sub_title : 'Loading'}</p>
+                {/* <p>{props.data ? props.data.description : 'Loading'}</p> */}
                 <div className="flex-row">
                   <a
                     href='https://www.figma.com/proto/4cHNrfbwTdFTqvppWtsl1c/Nhap-Nho?node-id=654%3A3720&scaling=scale-down&page-id=654%3A0'
