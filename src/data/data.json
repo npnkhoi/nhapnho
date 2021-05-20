@@ -21,37 +21,30 @@
         ]
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-compass",
+            "name": "Pidoco prototype",
+            "text": "This version includes 3 main features, namely (1) Dating place recommender, (2) Dating tour recommender, and (3) Making reviews."
         },
         {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-paint-brush",
+            "name": "Paper prototype",
+            "text": "The prototype includes 5 features, i.e. (1) Newsfeed; (2) Dating place recommender; (3) Dating tour recommender; (4) Couple account and (5) Settings."
         },
         {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-paper-plane-o",
+            "name": "First hi-fi prototype on Figma",
+            "text": "This version embeds comprehensive functionality of the app. It follows the visual guidelines and the design in Mockup. However, the design is not realistic and detailed enough. The interaction and flow of some tasks are not complete as well."
         },
         {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-print",
+            "name": "Second Figma prototype",
+            "text": "The version implemented full functionality of the app. The design follows the visual guidelines closely. Compared to the prior version, it is more detailed with the appearance of scrollable function, realistic icon use and photo display. However, there remain some minor issues in terms of icon choice, words and the mismatched interaction."
         },
         {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-laptop",
+            "name": "Current Figma prototype",
+            "text": "All of the significant issues arising in the Heuristic evaluation and Cognitive Walkthrough process are fixed. The design looks like the real app with (1) detailed design regarding elements, spacing and graphics, (2) real world content, and (3) highly realistics interaction."
         }
-
-
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
@@ -113,24 +106,24 @@
         "youtube": "youtube.com"
     },
     "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-film",
+            "title": "Record memories",
+            "text": "Create a memory with photos, videos, and personal reflection for a past date of your couple"
         },
         {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-backward",
+            "title": "Throw back your journey",
+            "text": "View dating memories through a timeline or through the location that you have visited"
         },
         {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-location-arrow",
+            "title": "Discover new dating places",
+            "text": "Places recommended based on your tastes and knowledge from many other Daters."
         },
         {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-heart",
+            "title": "Joint account for you two",
+            "text": "Co-share, co-view and co-modify your dating journey without any difficulty of sharing content to multiple accounts"
         }
     ]
 }
