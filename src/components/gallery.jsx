@@ -9,9 +9,9 @@ export const Gallery = props => {
     { thumb: "img/portfolio/1.jpg", title: "Ideation" },
     { thumb: "img/portfolio/2.jpg", title: "Ideation" },
     { thumb: "img/portfolio/3.jpg", title: "Ideation" },
-    { thumb: "img/portfolio/7.jpg", title: "Digital Lofi Prototype" },
-    { thumb: "img/portfolio/8.jpg", title: "Digital Lofi Prototype" },
-    { thumb: "img/portfolio/9.jpg", title: "Digital Lofi Prototype" },
+    { thumb: "img/portfolio/7.jpg", title: "Pidoco Prototype" },
+    { thumb: "img/portfolio/8.jpg", title: "Pidoco Prototype" },
+    { thumb: "img/portfolio/9.jpg", title: "Pidococ Prototype" },
     { thumb: "img/portfolio/4.jpg", title: "Paper Prototype" },
     { thumb: "img/portfolio/5.jpg", title: "Paper Prototype" },
     { thumb: "img/portfolio/6.jpg", title: "Paper Prototype" }
